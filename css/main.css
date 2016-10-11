@@ -56,7 +56,6 @@ a {
 }
 
 #header {
-    height: 150px;
     margin: 0 auto;
     padding: 0 0;
 }
@@ -149,10 +148,6 @@ a {
     padding: 20px 0 0 0;
     list-style: none;
     line-height: normal;
-}
-
-#menu li {
-    float: left;
 }
 
 #menu a {
