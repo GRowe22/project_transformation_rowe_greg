@@ -47,7 +47,6 @@ a {
 }
 
 .container {
-    width: 1000px;
     margin: 0 auto;
 }
 
@@ -57,7 +56,6 @@ a {
 }
 
 #header {
-    width: 1000px;
     height: 150px;
     margin: 0 auto;
     padding: 0 0;
@@ -101,13 +99,6 @@ a {
     background: none;
     text-decoration: none;
     color: #000000;
-}
-
-/* Splash */
-#splash {
-    width: 960px;
-    height: 300px;
-    margin: 0 auto;
 }
 
 /* Search */
