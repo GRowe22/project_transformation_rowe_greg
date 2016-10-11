@@ -184,7 +184,6 @@ a {
 
 /* Page */
 #page {
-    width: 1000px;
     margin: 0 auto;
     padding: 30px 0;
 }
@@ -201,7 +200,7 @@ a {
 }
 
 .post .title {
-    padding: 7px 0 0 0;
+    padding: 7px 0 0 30px;
     letter-spacing: -1px;
 }
 
@@ -213,7 +212,7 @@ a {
 
 .post .meta {
     margin-bottom: 30px;
-    padding: 10px 0 0 0;
+    padding: 10px 30px 0 30px;
     text-align: left;
     font-family: 'Abel', sans-serif;
     font-size: 16px;
@@ -229,7 +228,7 @@ a {
 }
 
 .post .entry {
-    padding: 0 0 40px 0;
+    padding: 0 30px 40px 30px;
     text-align: justify;
 }
 
