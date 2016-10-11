@@ -63,7 +63,6 @@ a {
 
 /* Logo */
 #logo {
-    float: left;
     width: 300px;
     margin: 0;
     padding: 0 0 0 30px;
@@ -146,7 +145,6 @@ a {
 }
 
 #menu ul {
-    float: right;
     margin: 0;
     padding: 20px 0 0 0;
     list-style: none;
