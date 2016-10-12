@@ -348,6 +348,19 @@ a {
     text-decoration: underline;
 }
 
+@media (min-width: 950px) {
+    #content {
+        float: right;
+        margin-left: 1em;
+        width: calc(100% / 3 * 2);
+    }
+
+    #sidebar {
+        float: left;
+        width: calc(100% / 3 - 1em);
+    }
+}
+
 /* Calendar */
 #calendar_wrap {
     padding: 20px;
