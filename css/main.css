@@ -187,6 +187,25 @@ a {
     color: #ffffff;
 }
 
+@media all and (min-width: 600px) {
+    nav li {
+        display: inline-block;
+        width: 50%;
+    }
+}
+
+@media all and (min-width: 900px) {
+    nav li {
+        width: calc(100% / 3);
+    }
+}
+
+@media all and (min-width: 1200px) {
+    nav li {
+        width: calc(100% / 5);
+    }
+}
+
 /* Page */
 #page {
     margin: 0 auto;
