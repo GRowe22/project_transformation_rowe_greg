@@ -10,6 +10,7 @@ html {
 
 .site-container {
     max-width: 1200px;
+    overflow: hidden;
 }
 
 body {
@@ -274,7 +275,7 @@ a {
     padding: 0;
 }
 
-#sidebar li ul {
+#sidebar section ul {
     margin: 0 0;
     padding-bottom: 30px;
 }
@@ -315,6 +316,7 @@ a {
 
 #sidebar a {
     border: none;
+    text-decoration: none;
 }
 
 #sidebar a:hover {
