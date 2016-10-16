@@ -3,8 +3,12 @@
 
 ![Responsive Design](https://websitesdepot-websitesdepotinc1.netdna-ssl.com/wp-content/uploads/2015/07/Responsive-Website-Design.jpg)
 
-##Github Repo Link
-[Responsive Transformation Project Link](https://github.com/GRowe22/project_transformation_rowe_greg)
+## Links
+* [GitHub - Responsive Transformation Project Link](https://github.com/GRowe22/project_transformation_rowe_greg)
+* [Web Host - Responsive Transformation Project Link](http://www.designer-rowe.com/responsive-project)
+* [W3C Validation - Responsive Transformation Project Link](https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.designer-rowe.com%2Fresponsive-project%2F)
+* [HTML5 Outliner - Responsive Transformation Project Link](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.designer-rowe.com%2Fresponsive-project)
+
 
 
 ## Resources
